@@ -1,0 +1,170 @@
+@media only screen and (max-width: 475px){
+    #menu{
+        display: inline !important;
+        margin-right: 20px;
+        margin-top: 10px;
+    }
+    .goo{
+        height: 50px;
+    }
+    .header{
+        width: 90%;
+    }
+    .ana{
+        font-size: 17px;
+        position: relative;
+        top: 10px;
+    }
+    .header2{
+        height: 100px;
+        font-size: 14px;
+        width: 90%;
+    }
+    .para{
+        width: 90%;
+    }
+    .para1{
+        font-size: 23px;
+        margin-bottom: 20px;
+        max-width: 100%;
+    }
+    .para2{
+        max-width: 100%;
+        font-size: 18px;
+        padding: 20px;
+        line-height: 25px;
+    }
+    .new{
+        flex-direction: column;
+        top: 5px;
+        left: -180px;
+    }
+    .email{
+        display: none;
+    }
+    .pp{
+        display: none;
+    }
+    .hero{
+        display: none;
+    }
+    .arrow{
+        display: none;
+    }
+    .para{
+        padding-left: 10px;
+        max-width: 100%;
+    }
+    .tion{
+        max-width: 90%;
+        height: 270vh;
+        padding: 10px;
+    }
+    .para3{
+        top: 10px;
+        font-size: 24px;
+        left: 0px;
+    }
+    .div,.div1{
+        top: 40px;
+        left: 0;
+        width: 180%;
+    }
+    .div1{
+        top: 50px;
+    }
+    .ion{
+        max-width: 90%;
+        padding: 10px;
+    }
+    .bep{
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .meet{
+        font-size: 20px;
+        margin-left: 0;
+    }
+    .float{
+        display: none !important;
+    }
+    .flex{
+        padding: 20px;
+        height: 450px;
+        max-width: 100%;
+    }
+    .head{
+        font-size: large;
+    }
+    .pad{
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .you{
+        font-size: 23px;
+    }
+    .story{
+        font-size: 15px;
+        padding: 15px;
+    }
+    .ex{
+        flex-direction: column;
+        width: 500px;
+    }
+    .fle{
+        margin-top: -20px;
+        height: 600px;
+        width: 90%;
+    }
+    .se{
+        flex-direction: column;
+        gap: 0;
+        padding-left: 150px;
+        margin-top: 10px;
+    }
+    #head{
+        font-size: 16px;
+        padding-left: 30px;
+    }
+    .foot{
+        display: none;
+    }
+    .bla{
+        display: flex;
+        flex-direction: column;
+        width: 50px;
+        height: 50px;
+        float: left;
+    }
+    .se{
+        float: left;
+        gap: 40px;
+    }
+    .p{
+        position: relative;
+        left: -50px;
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+        top: 20px;
+        text-align: center;
+        height: 400px;
+    }
+    #p{
+        position: relative;
+        left: 40px;
+        top: 10px;
+    }
+    #y,#q{
+        position: relative;
+        left: 5px;
+        top: 30px;
+    }
+    #b{
+        text-align: center;
+        top: 40px;
+        left: 10px;
+    }
+
+}
+  

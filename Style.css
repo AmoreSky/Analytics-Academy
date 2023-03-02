@@ -1,0 +1,280 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 700,
+  'GRAD' 0,
+  'opsz' 48;
+  display: none !important;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #fafafa;
+    max-width: 99.90%;
+}
+.google{
+    width: 60px;
+    margin-right: 10px;
+}
+.goo{display: flex;}
+.ana{
+    Font-Weight:400;
+    Font-Size:20px;
+    Line-Height:20px;
+    Color:rgba(74 74 74);
+    margin-top: 5px;
+}
+.pp{
+    height: 20px;
+    width: 20px;
+    border-radius: 100%;
+}
+.email{
+    font-size: 12px;
+}
+.header2{
+    background-color: #ff7700;
+    font-size: 12px;
+    color: white;
+    font-weight: bold;
+    height: 40px;
+    padding: 10px;
+    max-width: 99.90%;
+}
+.fre{
+    color: white;
+}
+.sec{
+    display: flex;
+}
+.para{
+    padding: 40px 0 0 150px;
+    height: 300px;
+    width: 50%;
+    background-color: #fafafa;
+}
+.para1{
+    font-size: 35px;
+    color: rgba(0 0 0 84);
+    width: 450px;
+    margin-bottom: 50px;
+}
+.para2{
+    font-size: 15px;
+    color: rgba(0 0 0 84);
+    width: 380px;
+}
+.hero{
+    height: 300px;
+}
+#arrow {
+    position: absolute;
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 700,
+    'GRAD' 0,
+    'opsz' 48;
+    color: white;
+    top:15px;
+    left: 13px;
+    display: inline !important;
+}
+.arrow{
+    position: relative;
+    background-color: #4285f4;
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    top: -100px;
+    left: 580px;
+}
+.tion{
+    position: relative;
+    background-color: #4285f4;
+    max-width: 100%;
+    height: 150vh;
+    top: -54px;
+    /* margin-top: 0px; */
+    margin-bottom: -60px;
+    padding: 20px 150px;
+}
+.new{
+    display: flex;
+    gap: 15px;
+    padding-left: 180px;
+    position: relative;
+    top: -60px;
+}
+.para3{position: relative;
+    color: white;
+    font-size: 30px;
+}
+.div,.div1{
+    position: relative;
+    top: 100px;
+    left: -180px;
+    height: 350px;
+    width: 300px;
+    background-color: white;
+    padding: 10px;
+    box-shadow: 2px 2px 5px blue;
+}
+.div1{
+    width: 210px;
+}
+.new1{
+    position: relative;
+    top: 20px;
+}
+.yen{
+    font-size: 18px;
+    color: rgba(0 0 0 84);
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 30px;
+
+}
+.data, .fla{
+    width: 30px;
+}
+.bep{
+    font-size: 12px;
+    color: rgba(0 0 0 84);
+    line-height: 15px;
+}
+.af{
+    color: #ff7700;
+    font-size: 50px;
+    margin-left: 150px;
+}
+.ion{
+    position: relative;
+    background-color: #fafafa;
+    padding: 50px 200px;
+    top: -20px;
+}
+.meet{
+    font-size: xx-large;
+    margin-bottom: 50px;
+}
+.flex{
+   background-color: #f2f2f2;
+   height: 200px;
+   box-shadow: 1px 1px 5px grey;
+   margin-bottom: 50px;
+   width: 100%;
+}
+.float{
+    float: left;
+    margin-right: 40px;
+}
+.head{
+    padding-top: 20px;
+    font-size: large;
+    padding-bottom: 10px;
+    border-bottom: 1px solid rgb(183, 181, 181);
+}
+.pad{
+    padding-right: 20px;
+    font-size: 13px;
+    line-height: 20px;
+}
+.you{
+    font-size: xx-large;
+    margin-bottom: 20px;
+}
+.story{
+    line-height: 20px;
+    font-size: 16px;
+    margin-bottom: 50px;
+}
+#fle{
+    width: 300px;
+    height: 150px;
+    text-align: center;
+    padding: 20px;
+    line-height: 20px;
+    position: relative;
+}
+.ex{
+    display: flex;
+    gap: 20px;
+}
+.fle{
+    width: 99.9%;
+    background-color: #f2f2f2;
+    position: relative;
+    top: -20px;
+}
+#head{
+    padding-left: 200px;
+}
+.se{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    gap: 100px;
+    margin-top: 50px;
+    position: relative;
+    left: -50px;
+}
+#p{
+    margin-left: -40px;
+    width:150px;
+    text-align: center;
+    line-height: 20px;
+}
+.foot a{
+    text-decoration: none;
+    font-size: small;
+    color: rgb(64, 62, 62);
+    font-weight: bold;
+    margin-right: 20px;
+}
+.foot{
+    text-align: end;
+    height: 50px;
+    padding: 20px;
+    background-color: white;
+}
+.p{
+    position: relative;
+    left: 250px;
+    display: flex;
+    flex-direction: row;
+}
+#t{
+    width: 150px;
+    margin-right: 50px;
+    left: -100px;
+}
+#p{
+    position: relative;
+    margin-right: 80px;
+    left: -50px;
+}
+#y{
+    width: 150px;
+    position: relative;
+    left: -100px;
+}
+#q{
+    width: 150px;
+    position: relative;
+    left: -100px;
+}
+#b{
+    width: 150px;
+    position: relative;
+    left: -120px;
+}
