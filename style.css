@@ -107,13 +107,10 @@ html{
 .tion{
     position: relative;
     background-color: #4285f4;
-    /* max-width: 99.81%; */
-    height: 160vh;
-    border: 5px solid red;
+    height: 125vh;
     top: -54px;
-    /* margin-top: 0px; */
-    /* margin-bottom: -60px; */
     padding: 20px 150px;
+    margin-bottom: -40px;
 }
 .new{
     display: flex;

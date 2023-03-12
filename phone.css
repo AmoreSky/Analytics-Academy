@@ -8,7 +8,7 @@
         height: 50px;
     }
     .header{
-        width: 80%;
+        width: 190%;
     }
     .ana{
         font-size: 17px;
@@ -18,11 +18,11 @@
     .header2{
         height: 110px;
         font-size: 14px;
-        width: 80%;
+        width: 100%;
         padding: 20px;
     }
     .para{
-        width: 80%;
+        width: 100%;
         height: 270px;
     }
     .para1{
@@ -58,8 +58,8 @@
         max-width: 100%;
     }
     .tion{
-        max-width: 80%;
-        height: 270vh;
+        max-width: 100%;
+        height: 350vh;
         padding: 10px;
     }
     .para3{
@@ -77,7 +77,7 @@
         top: 50px;
     }
     .ion{
-        max-width: 80%;
+        max-width: 100%;
         padding: 10px;
     }
     .bep{
@@ -94,7 +94,7 @@
     .flex{
         padding: 20px;
         height: 350px;
-        max-width: 90%;
+        max-width: 100%;
     }
     .head{
         font-size: 17px;
@@ -117,7 +117,7 @@
     .fle{
         margin-top: -20px;
         height: 600px;
-        width: 90%;
+        width: 100%;
     }
     .se{
         flex-direction: column;
